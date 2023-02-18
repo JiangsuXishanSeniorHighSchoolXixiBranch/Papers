@@ -1,4 +1,4 @@
 # Papers
 $$
-f(x)=e^{-x} 
+lim_{x \to 0}sin(x)
 $$
